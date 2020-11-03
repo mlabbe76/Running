@@ -1,0 +1,34 @@
+.navbar{
+    font-family: Roboto ;
+    font-size: 12px;
+    border-bottom: 1px solid #fcf800;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #62A672;
+}
+.logoR {
+    max-width: 20%;
+}
+.dropdown-item{
+    font-size: smaller;
+}
+body{
+    font-family: Roboto;
+}
+footer{
+    font-family: Roboto;
+    font-size: 12px;
+    border-bottom: 1px solid #fcf800;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #62A672;
+}
+
+@media screen and (max-width: 800px) {
+    .logoR {
+      max-width: 50%;
+    }
+  }
+
